@@ -2,7 +2,7 @@
 
 配方： ℞ **scj**
 
-[Rime](http://rime.im) 快速倉頡輸入方案
+[Rime](https://rime.im) 快速倉頡輸入方案
 
     快速倉頡輸入法第六代
     網址: http://www.scj2000.com
